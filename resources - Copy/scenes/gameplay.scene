@@ -1,0 +1,20 @@
+{
+	"actors": [
+		{
+			"name": "GameManager",
+			"components": {
+				"1": {
+					"type": "GameManager"
+				}
+			}
+		},
+		{
+			"name": "CameraManager",
+			"components": {
+				"1": {
+					"type": "CameraManager"
+				}
+			}
+		}
+	]
+}
